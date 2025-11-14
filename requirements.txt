@@ -1,0 +1,22 @@
+# Core Python utilities
+requests
+numpy
+pandas
+matplotlib
+joblib
+shap
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning (for MLP/PyTorch models)
+torch
+
+# Optional but recommended for consistent datetime parsing and warnings
+python-dateutil
+
+# To suppress warnings cleanly
+warnings
