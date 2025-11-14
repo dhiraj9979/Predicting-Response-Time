@@ -24,3 +24,9 @@ Hyperparameter tuning
 SHAP-based explainability
 
 Saving best model + preprocessor for deployment
+
+How to Run the Project:
+1. Install Dependencies - pip install -r requirements.txt
+2. (Optional) Enable GPU support
+3. Run the training pipeline
+4. Run SHAP explainability
